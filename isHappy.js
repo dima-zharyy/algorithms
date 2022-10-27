@@ -18,3 +18,7 @@ const isHappy = (n) => {
 };
 
 console.log(isHappy(19));
+console.log(isHappy(1));
+console.log(isHappy(7));
+console.log(isHappy(1111111));
+console.log(isHappy(325));
